@@ -1,0 +1,16 @@
+/* TEAM */
+Owner: Yeltsin Lima
+Email: yeltsin@sitesemrecife.com.br
+Twitter: sitesemrecife
+Location: Recife, Brazil
+
+/* THANKS */
+
+Igor Rezende Queiroz: https://www.flickr.com/photos/igorrezende/13309634513/
+
+
+/* SITE */
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
